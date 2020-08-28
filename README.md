@@ -15,7 +15,4 @@ npm run serve
 ```
 http://localhost:8080/ 
 ```
-### 4. Так же доступно по адресу
-```
-https://wazzup-test.web.app/
-```
+
